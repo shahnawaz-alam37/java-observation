@@ -1,4 +1,4 @@
-package question24;
+package question24;//remove the package name and question24 in import statement
 import question24.pac.access;
 class demo{
     int a=1;
